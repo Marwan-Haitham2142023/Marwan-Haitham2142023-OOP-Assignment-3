@@ -40,3 +40,17 @@ The Error is :
 (are you missing a using directive or an assembly reference?)
 
 ** this because the generic type `T` does not have a constraint that ensures it has an `Id` property.
+
+
+
+
+
+### Step 7 — Prove it in Main
+new Store<string>(); Will not compile because `string` does not have an `Id` property and it doesn't implement the IHasId interface. 
+
+
+
+
+### The Store<T> you created in Steps 4 and 5 is generic repository. The core idea of this pattern is precisely: 
+### to provide a unified CRUD (add, delete, get, query) operation interface for any entity type through generics,
+### avoiding writing a separate store class for each entity (such as StudentStore, CourseStore).
