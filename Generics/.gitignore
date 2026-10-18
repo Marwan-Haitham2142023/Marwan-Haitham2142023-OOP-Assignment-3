@@ -1,5 +1,5 @@
 ﻿bin/
 obj/
 *slnx
-*.cproj
+*.csproj
 .vs/
