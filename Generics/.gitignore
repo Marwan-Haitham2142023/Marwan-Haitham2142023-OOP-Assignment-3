@@ -1,0 +1,9 @@
+﻿bin/
+obj/
+*slnx
+<<<<<<< HEAD
+*.csproj
+=======
+*csproj
+>>>>>>> b7fbbbe (Step 2 — A store for courses)
+.vs/

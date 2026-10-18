@@ -1,0 +1,15 @@
+D:\Simulation Resources\Blocked Users & Students\bin\Debug\net10.0\Blocked Users & Students.exe
+D:\Simulation Resources\Blocked Users & Students\bin\Debug\net10.0\Blocked Users & Students.deps.json
+D:\Simulation Resources\Blocked Users & Students\bin\Debug\net10.0\Blocked Users & Students.runtimeconfig.json
+D:\Simulation Resources\Blocked Users & Students\bin\Debug\net10.0\Blocked Users & Students.dll
+D:\Simulation Resources\Blocked Users & Students\bin\Debug\net10.0\Blocked Users & Students.pdb
+D:\Simulation Resources\Blocked Users & Students\obj\Debug\net10.0\Blocked Users & Students.GeneratedMSBuildEditorConfig.editorconfig
+D:\Simulation Resources\Blocked Users & Students\obj\Debug\net10.0\Blocked Users & Students.AssemblyInfoInputs.cache
+D:\Simulation Resources\Blocked Users & Students\obj\Debug\net10.0\Blocked Users & Students.AssemblyInfo.cs
+D:\Simulation Resources\Blocked Users & Students\obj\Debug\net10.0\Blocked Users & Students.csproj.CoreCompileInputs.cache
+D:\Simulation Resources\Blocked Users & Students\obj\Debug\net10.0\Blocked Users & Students.dll
+D:\Simulation Resources\Blocked Users & Students\obj\Debug\net10.0\refint\Blocked Users & Students.dll
+D:\Simulation Resources\Blocked Users & Students\obj\Debug\net10.0\Blocked Users & Students.pdb
+D:\Simulation Resources\Blocked Users & Students\obj\Debug\net10.0\Blocked Users & Students.genruntimeconfig.cache
+D:\Simulation Resources\Blocked Users & Students\obj\Debug\net10.0\ref\Blocked Users & Students.dll
+D:\Simulation Resources\Blocked Users & Students\obj\Debug\net10.0\Blocked .E15CE64B.Up2Date

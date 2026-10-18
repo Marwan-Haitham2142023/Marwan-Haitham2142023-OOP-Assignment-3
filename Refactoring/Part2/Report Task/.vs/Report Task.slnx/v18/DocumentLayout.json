@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Simulation Resources\\Report Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61A0182E-CFD8-47C5-B7E3-061ACEA2BCDE}|Report Task.csproj|d:\\simulation resources\\report task\\csvreportexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A0182E-CFD8-47C5-B7E3-061ACEA2BCDE}|Report Task.csproj|solutionrelative:csvreportexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A0182E-CFD8-47C5-B7E3-061ACEA2BCDE}|Report Task.csproj|d:\\simulation resources\\report task\\jsonreportexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A0182E-CFD8-47C5-B7E3-061ACEA2BCDE}|Report Task.csproj|solutionrelative:jsonreportexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A0182E-CFD8-47C5-B7E3-061ACEA2BCDE}|Report Task.csproj|d:\\simulation resources\\report task\\textreportexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A0182E-CFD8-47C5-B7E3-061ACEA2BCDE}|Report Task.csproj|solutionrelative:textreportexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A0182E-CFD8-47C5-B7E3-061ACEA2BCDE}|Report Task.csproj|d:\\simulation resources\\report task\\reportexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A0182E-CFD8-47C5-B7E3-061ACEA2BCDE}|Report Task.csproj|solutionrelative:reportexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A0182E-CFD8-47C5-B7E3-061ACEA2BCDE}|Report Task.csproj|d:\\simulation resources\\report task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A0182E-CFD8-47C5-B7E3-061ACEA2BCDE}|Report Task.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextReportExporter.cs",
+              "DocumentMoniker": "D:\\Simulation Resources\\Report Task\\TextReportExporter.cs",
+              "RelativeDocumentMoniker": "TextReportExporter.cs",
+              "ToolTip": "D:\\Simulation Resources\\Report Task\\TextReportExporter.cs",
+              "RelativeToolTip": "TextReportExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T09:22:27.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JsonReportExporter.cs",
+              "DocumentMoniker": "D:\\Simulation Resources\\Report Task\\JsonReportExporter.cs",
+              "RelativeDocumentMoniker": "JsonReportExporter.cs",
+              "ToolTip": "D:\\Simulation Resources\\Report Task\\JsonReportExporter.cs",
+              "RelativeToolTip": "JsonReportExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T09:22:25.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CsvReportExporter.cs",
+              "DocumentMoniker": "D:\\Simulation Resources\\Report Task\\CsvReportExporter.cs",
+              "RelativeDocumentMoniker": "CsvReportExporter.cs",
+              "ToolTip": "D:\\Simulation Resources\\Report Task\\CsvReportExporter.cs",
+              "RelativeToolTip": "CsvReportExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T09:22:24.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Simulation Resources\\Report Task\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Simulation Resources\\Report Task\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T09:22:05.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportExporter.cs",
+              "DocumentMoniker": "D:\\Simulation Resources\\Report Task\\ReportExporter.cs",
+              "RelativeDocumentMoniker": "ReportExporter.cs",
+              "ToolTip": "D:\\Simulation Resources\\Report Task\\ReportExporter.cs",
+              "RelativeToolTip": "ReportExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T09:22:45.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

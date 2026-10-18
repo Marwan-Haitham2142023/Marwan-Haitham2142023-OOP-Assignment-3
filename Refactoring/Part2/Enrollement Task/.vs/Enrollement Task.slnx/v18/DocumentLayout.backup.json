@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Simulation Resources\\Enrollement Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0C6CB5-AB04-4AA6-91AF-8874BDBD0B05}|Enrollement Task.csproj|d:\\simulation resources\\enrollement task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0C6CB5-AB04-4AA6-91AF-8874BDBD0B05}|Enrollement Task.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0C6CB5-AB04-4AA6-91AF-8874BDBD0B05}|Enrollement Task.csproj|d:\\simulation resources\\enrollement task\\enrollmentfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0C6CB5-AB04-4AA6-91AF-8874BDBD0B05}|Enrollement Task.csproj|solutionrelative:enrollmentfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0C6CB5-AB04-4AA6-91AF-8874BDBD0B05}|Enrollement Task.csproj|d:\\simulation resources\\enrollement task\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0C6CB5-AB04-4AA6-91AF-8874BDBD0B05}|Enrollement Task.csproj|solutionrelative:services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnrollmentFacade.cs",
+              "DocumentMoniker": "D:\\Simulation Resources\\Enrollement Task\\EnrollmentFacade.cs",
+              "RelativeDocumentMoniker": "EnrollmentFacade.cs",
+              "ToolTip": "D:\\Simulation Resources\\Enrollement Task\\EnrollmentFacade.cs*",
+              "RelativeToolTip": "EnrollmentFacade.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T10:41:54.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Services.cs",
+              "DocumentMoniker": "D:\\Simulation Resources\\Enrollement Task\\Services.cs",
+              "RelativeDocumentMoniker": "Services.cs",
+              "ToolTip": "D:\\Simulation Resources\\Enrollement Task\\Services.cs",
+              "RelativeToolTip": "Services.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T10:40:33.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Simulation Resources\\Enrollement Task\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Simulation Resources\\Enrollement Task\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T10:40:14.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
