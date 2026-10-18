@@ -32,3 +32,11 @@ In short: the **algorithm is duplicated almost verbatim**; only the type name an
 2. **The entity's other properties** — `Student` has `Name` (string); `Course` has `Title` (string) and `Price` (decimal). Neither store touches these, but they define what the entity "is."
 3. **The field/method names** — `courses` vs `students`, `AddCourse` vs `AddStudent`, `RemoveCourse` vs `RemoveStudent` (cosmetic only).
 4. **The identifier semantics** — both use `int Id`, so at the store level there is no difference; the difference is only in *what* the `Id` refers to (a student vs. a course).
+
+
+### Step 3 — One class for both
+The Error is :
+'T' does not contain a definition for 'Id' and no accessible extension method 'Id' accepting a first argument of type 'T' could be found
+(are you missing a using directive or an assembly reference?)
+
+** this because the generic type `T` does not have a constraint that ensures it has an `Id` property.
