@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Generics.src
 {
-    public class Course
+    public class Course : IHasId
     {
         public int Id { get; set; }
         public string? Title { get; set; }
