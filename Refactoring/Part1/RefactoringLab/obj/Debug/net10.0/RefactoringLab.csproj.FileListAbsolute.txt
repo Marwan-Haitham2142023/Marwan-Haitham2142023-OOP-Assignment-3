@@ -1,0 +1,15 @@
+D:\Simulation Resources\RefactoringLab\bin\Debug\net10.0\RefactoringLab.exe
+D:\Simulation Resources\RefactoringLab\bin\Debug\net10.0\RefactoringLab.deps.json
+D:\Simulation Resources\RefactoringLab\bin\Debug\net10.0\RefactoringLab.runtimeconfig.json
+D:\Simulation Resources\RefactoringLab\bin\Debug\net10.0\RefactoringLab.dll
+D:\Simulation Resources\RefactoringLab\bin\Debug\net10.0\RefactoringLab.pdb
+D:\Simulation Resources\RefactoringLab\obj\Debug\net10.0\RefactoringLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Simulation Resources\RefactoringLab\obj\Debug\net10.0\RefactoringLab.AssemblyInfoInputs.cache
+D:\Simulation Resources\RefactoringLab\obj\Debug\net10.0\RefactoringLab.AssemblyInfo.cs
+D:\Simulation Resources\RefactoringLab\obj\Debug\net10.0\RefactoringLab.csproj.CoreCompileInputs.cache
+D:\Simulation Resources\RefactoringLab\obj\Debug\net10.0\RefactoringLab.dll
+D:\Simulation Resources\RefactoringLab\obj\Debug\net10.0\refint\RefactoringLab.dll
+D:\Simulation Resources\RefactoringLab\obj\Debug\net10.0\RefactoringLab.pdb
+D:\Simulation Resources\RefactoringLab\obj\Debug\net10.0\RefactoringLab.genruntimeconfig.cache
+D:\Simulation Resources\RefactoringLab\obj\Debug\net10.0\ref\RefactoringLab.dll
+D:\Simulation Resources\RefactoringLab\obj\Debug\net10.0\Refactor.5D5DD080.Up2Date

@@ -1,0 +1,15 @@
+D:\Simulation Resources\Enrollement Task\bin\Debug\net10.0\Enrollement Task.exe
+D:\Simulation Resources\Enrollement Task\bin\Debug\net10.0\Enrollement Task.deps.json
+D:\Simulation Resources\Enrollement Task\bin\Debug\net10.0\Enrollement Task.runtimeconfig.json
+D:\Simulation Resources\Enrollement Task\bin\Debug\net10.0\Enrollement Task.dll
+D:\Simulation Resources\Enrollement Task\bin\Debug\net10.0\Enrollement Task.pdb
+D:\Simulation Resources\Enrollement Task\obj\Debug\net10.0\Enrollement Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Simulation Resources\Enrollement Task\obj\Debug\net10.0\Enrollement Task.AssemblyInfoInputs.cache
+D:\Simulation Resources\Enrollement Task\obj\Debug\net10.0\Enrollement Task.AssemblyInfo.cs
+D:\Simulation Resources\Enrollement Task\obj\Debug\net10.0\Enrollement Task.csproj.CoreCompileInputs.cache
+D:\Simulation Resources\Enrollement Task\obj\Debug\net10.0\Enrollement Task.dll
+D:\Simulation Resources\Enrollement Task\obj\Debug\net10.0\refint\Enrollement Task.dll
+D:\Simulation Resources\Enrollement Task\obj\Debug\net10.0\Enrollement Task.pdb
+D:\Simulation Resources\Enrollement Task\obj\Debug\net10.0\Enrollement Task.genruntimeconfig.cache
+D:\Simulation Resources\Enrollement Task\obj\Debug\net10.0\ref\Enrollement Task.dll
+D:\Simulation Resources\Enrollement Task\obj\Debug\net10.0\Enrollem.3D300BF9.Up2Date

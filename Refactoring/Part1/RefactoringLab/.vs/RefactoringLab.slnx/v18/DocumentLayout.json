@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Simulation Resources\\RefactoringLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|d:\\simulation resources\\refactoringlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|d:\\simulation resources\\refactoringlab\\notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|solutionrelative:notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|d:\\simulation resources\\refactoringlab\\pushchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|solutionrelative:pushchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|d:\\simulation resources\\refactoringlab\\smschannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|solutionrelative:smschannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|d:\\simulation resources\\refactoringlab\\emailchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|solutionrelative:emailchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|d:\\simulation resources\\refactoringlab\\inotificationchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|solutionrelative:inotificationchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|d:\\simulation resources\\refactoringlab\\smtpemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|solutionrelative:smtpemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|d:\\simulation resources\\refactoringlab\\sqlorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|solutionrelative:sqlorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|d:\\simulation resources\\refactoringlab\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|solutionrelative:orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|d:\\simulation resources\\refactoringlab\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|solutionrelative:iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|d:\\simulation resources\\refactoringlab\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|solutionrelative:iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|d:\\simulation resources\\refactoringlab\\shippingcostcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|solutionrelative:shippingcostcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|d:\\simulation resources\\refactoringlab\\aramexexpresscarrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|solutionrelative:aramexexpresscarrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|d:\\simulation resources\\refactoringlab\\dhlcarrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|solutionrelative:dhlcarrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|d:\\simulation resources\\refactoringlab\\fedexcarrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|solutionrelative:fedexcarrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|d:\\simulation resources\\refactoringlab\\aramexcarrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|solutionrelative:aramexcarrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|d:\\simulation resources\\refactoringlab\\ishippingcarrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85534DF8-8020-4BBF-BF84-07F7AA44959D}|RefactoringLab.csproj|solutionrelative:ishippingcarrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SmsChannel.cs",
+              "DocumentMoniker": "D:\\Simulation Resources\\RefactoringLab\\SmsChannel.cs",
+              "RelativeDocumentMoniker": "SmsChannel.cs",
+              "ToolTip": "D:\\Simulation Resources\\RefactoringLab\\SmsChannel.cs",
+              "RelativeToolTip": "SmsChannel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T04:56:26.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailChannel.cs",
+              "DocumentMoniker": "D:\\Simulation Resources\\RefactoringLab\\EmailChannel.cs",
+              "RelativeDocumentMoniker": "EmailChannel.cs",
+              "ToolTip": "D:\\Simulation Resources\\RefactoringLab\\EmailChannel.cs",
+              "RelativeToolTip": "EmailChannel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T04:56:02.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INotificationChannel.cs",
+              "DocumentMoniker": "D:\\Simulation Resources\\RefactoringLab\\INotificationChannel.cs",
+              "RelativeDocumentMoniker": "INotificationChannel.cs",
+              "ToolTip": "D:\\Simulation Resources\\RefactoringLab\\INotificationChannel.cs",
+              "RelativeToolTip": "INotificationChannel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T04:55:41.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SmtpEmailSender.cs",
+              "DocumentMoniker": "D:\\Simulation Resources\\RefactoringLab\\SmtpEmailSender.cs",
+              "RelativeDocumentMoniker": "SmtpEmailSender.cs",
+              "ToolTip": "D:\\Simulation Resources\\RefactoringLab\\SmtpEmailSender.cs",
+              "RelativeToolTip": "SmtpEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T04:53:51.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Simulation Resources\\RefactoringLab\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Simulation Resources\\RefactoringLab\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T04:35:24.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PushChannel.cs",
+              "DocumentMoniker": "D:\\Simulation Resources\\RefactoringLab\\PushChannel.cs",
+              "RelativeDocumentMoniker": "PushChannel.cs",
+              "ToolTip": "D:\\Simulation Resources\\RefactoringLab\\PushChannel.cs",
+              "RelativeToolTip": "PushChannel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T04:56:46.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Notifications.cs",
+              "DocumentMoniker": "D:\\Simulation Resources\\RefactoringLab\\Notifications.cs",
+              "RelativeDocumentMoniker": "Notifications.cs",
+              "ToolTip": "D:\\Simulation Resources\\RefactoringLab\\Notifications.cs",
+              "RelativeToolTip": "Notifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T04:34:33.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "D:\\Simulation Resources\\RefactoringLab\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "IEmailSender.cs",
+              "ToolTip": "D:\\Simulation Resources\\RefactoringLab\\IEmailSender.cs",
+              "RelativeToolTip": "IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T04:53:23.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SqlOrderRepository.cs",
+              "DocumentMoniker": "D:\\Simulation Resources\\RefactoringLab\\SqlOrderRepository.cs",
+              "RelativeDocumentMoniker": "SqlOrderRepository.cs",
+              "ToolTip": "D:\\Simulation Resources\\RefactoringLab\\SqlOrderRepository.cs",
+              "RelativeToolTip": "SqlOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T04:50:27.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\Simulation Resources\\RefactoringLab\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "IOrderRepository.cs",
+              "ToolTip": "D:\\Simulation Resources\\RefactoringLab\\IOrderRepository.cs",
+              "RelativeToolTip": "IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T04:49:15.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderProcessor.cs",
+              "DocumentMoniker": "D:\\Simulation Resources\\RefactoringLab\\OrderProcessor.cs",
+              "RelativeDocumentMoniker": "OrderProcessor.cs",
+              "ToolTip": "D:\\Simulation Resources\\RefactoringLab\\OrderProcessor.cs",
+              "RelativeToolTip": "OrderProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T04:34:33.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AramexExpressCarrier.cs",
+              "DocumentMoniker": "D:\\Simulation Resources\\RefactoringLab\\AramexExpressCarrier.cs",
+              "RelativeDocumentMoniker": "AramexExpressCarrier.cs",
+              "ToolTip": "D:\\Simulation Resources\\RefactoringLab\\AramexExpressCarrier.cs",
+              "RelativeToolTip": "AramexExpressCarrier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T04:39:52.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DhlCarrier.cs",
+              "DocumentMoniker": "D:\\Simulation Resources\\RefactoringLab\\DhlCarrier.cs",
+              "RelativeDocumentMoniker": "DhlCarrier.cs",
+              "ToolTip": "D:\\Simulation Resources\\RefactoringLab\\DhlCarrier.cs",
+              "RelativeToolTip": "DhlCarrier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T04:39:21.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FedExCarrier.cs",
+              "DocumentMoniker": "D:\\Simulation Resources\\RefactoringLab\\FedExCarrier.cs",
+              "RelativeDocumentMoniker": "FedExCarrier.cs",
+              "ToolTip": "D:\\Simulation Resources\\RefactoringLab\\FedExCarrier.cs",
+              "RelativeToolTip": "FedExCarrier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T04:38:51.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AramexCarrier.cs",
+              "DocumentMoniker": "D:\\Simulation Resources\\RefactoringLab\\AramexCarrier.cs",
+              "RelativeDocumentMoniker": "AramexCarrier.cs",
+              "ToolTip": "D:\\Simulation Resources\\RefactoringLab\\AramexCarrier.cs",
+              "RelativeToolTip": "AramexCarrier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T04:38:25.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IShippingCarrier.cs",
+              "DocumentMoniker": "D:\\Simulation Resources\\RefactoringLab\\IShippingCarrier.cs",
+              "RelativeDocumentMoniker": "IShippingCarrier.cs",
+              "ToolTip": "D:\\Simulation Resources\\RefactoringLab\\IShippingCarrier.cs",
+              "RelativeToolTip": "IShippingCarrier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T04:37:48.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShippingCostCalculator.cs",
+              "DocumentMoniker": "D:\\Simulation Resources\\RefactoringLab\\ShippingCostCalculator.cs",
+              "RelativeDocumentMoniker": "ShippingCostCalculator.cs",
+              "ToolTip": "D:\\Simulation Resources\\RefactoringLab\\ShippingCostCalculator.cs",
+              "RelativeToolTip": "ShippingCostCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T04:34:34.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
